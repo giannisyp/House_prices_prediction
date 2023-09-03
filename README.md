@@ -8,6 +8,6 @@
 
 ### Evaluate how the model's coefficients and residuals
 
-### Use data transformation to improve your model performance
+### Use data transformation to improve the model performance
 
 ### Use the model to estimate a property price based on the property specs.
