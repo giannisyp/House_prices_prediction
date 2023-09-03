@@ -1,1 +1,1 @@
-# House_prices_prediction
+# House prices prediction
