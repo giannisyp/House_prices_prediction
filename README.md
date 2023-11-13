@@ -42,6 +42,17 @@ Using the logarithm of one or more variables improves the fit of the model by tr
 
 
 
+In this project the packages used are as followed :
+
+matplotlib         
+numpy              
+pandas              
+plotly            
+seaborn            
+sklearn            
+
+
+
 
 
 
