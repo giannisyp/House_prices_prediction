@@ -18,6 +18,9 @@ We use a 80% of the data for training and 20% for testing.
 
 ## Run a Multivariable Regression. 
 
+![image](https://github.com/giannisyp/House_prices_prediction/assets/119696474/750a8988-573b-42d3-9d77-632edc84504d)
+
+
 ## Evaluate how the model's coefficients and residuals. 
 
 ![image](https://github.com/giannisyp/House_prices_prediction/assets/119696474/2fab52ce-8ac5-44b1-820f-4aecb2b9ed34)
