@@ -29,8 +29,7 @@ We use a 80% of the data for training and 20% for testing.
 ## Use data transformation to improve the model performance. 
 Data transformation approach. 
 
-* Plot the log prices using Seaborn's and calculate the skew. 
-* Which distribution has a skew that's closer to zero?
+* Plot the log prices using Seaborn and calculate the skew. 
 * The log transformation is often used to reduce skewness of a measurement variable
 
 Using the logarithm of one or more variables improves the fit of the model by transforming the distribution of the features to a more normally-shaped bell curve
