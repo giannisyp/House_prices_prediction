@@ -4,7 +4,7 @@
 
 
 
-## In this project we analyze and explore the Boston house price data .
+## In this project we analyze and explore the Boston house price data 
 Some of the features of the datase are shown below :
 
 ![image](https://github.com/giannisyp/House_prices_prediction/assets/119696474/6433d082-cec0-42bd-b25b-e450fb360cad)
